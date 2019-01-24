@@ -1,0 +1,13 @@
+*.class
+*.iml
+
+# MT for Java
+.mtj.tmp/
+
+# VM crash logs
+hs_err_pid*
+
+# Intellij Idea
+.idea
+
+/out/*
